@@ -14,7 +14,6 @@
 */
 
 window.AudioContext = window.AudioContext || window.webkitAudioContext;
-window.
 
 var audioContext = new AudioContext();
 var audioInput = null,
